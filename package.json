@@ -1,0 +1,20 @@
+{
+  "name": "caprio_store",
+  "version": "1.0.0",
+  "description": "Caprio Online Store - Premium E-Commerce Experience",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "caprio",
+    "luxury",
+    "store",
+    "admin"
+  ],
+  "author": "Caprio",
+  "license": "ISC"
+}
